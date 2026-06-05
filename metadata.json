@@ -1,0 +1,6 @@
+{
+  "name": "برنامج الاتصالات الداخلي ونقل البريد",
+  "description": "برنامج الاتصالات الداخلي ونقل البريد لقسم الاعداد والتدريب بمديرية تربية المثنى",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

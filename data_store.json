@@ -1,0 +1,227 @@
+{
+  "users": [
+    {
+      "id": "admin_1",
+      "username": "admin",
+      "name": "الآدمن (مسؤول النظام)",
+      "role": "admin",
+      "passwordText": "admin123",
+      "divisionId": "all",
+      "createdAt": "2026-05-26T12:00:00Z"
+    },
+    {
+      "id": "director_1",
+      "username": "safaa",
+      "name": "م.م صفاء هادي عبد العالي الطاني (مدير القسم)",
+      "role": "manager",
+      "passwordText": "director123",
+      "divisionId": "all",
+      "createdAt": "2026-05-26T12:05:00Z"
+    },
+    {
+      "id": "user_1780079261395",
+      "username": "emp_dany817",
+      "name": "م.م حسين فالح",
+      "role": "head",
+      "passwordText": "Bf4RCa6X",
+      "divisionId": "training",
+      "createdAt": "2026-05-29T18:27:41.395Z"
+    },
+    {
+      "id": "user_1780079309782",
+      "username": "emp_hoik702",
+      "name": "م.م احمد هاشم",
+      "role": "employee",
+      "passwordText": "PFcxPna5",
+      "divisionId": "training",
+      "createdAt": "2026-05-29T18:28:29.782Z"
+    },
+    {
+      "id": "user_1780079348677",
+      "username": "emp_uhuu446",
+      "name": "م.م علي صباح",
+      "role": "head",
+      "passwordText": "SR9pJfe2",
+      "divisionId": "research",
+      "createdAt": "2026-05-29T18:29:08.677Z"
+    },
+    {
+      "id": "user_1780079418666",
+      "username": "emp_bjel848",
+      "name": "م.م طاهر طالب",
+      "role": "employee",
+      "passwordText": "jWRbKhAy",
+      "divisionId": "research",
+      "createdAt": "2026-05-29T18:30:18.666Z"
+    },
+    {
+      "id": "user_1780079499688",
+      "username": "emp_fyqk451",
+      "name": "سميرة محمد",
+      "role": "head",
+      "passwordText": "YPpFAfp3",
+      "divisionId": "institutes",
+      "createdAt": "2026-05-29T18:31:39.688Z"
+    },
+    {
+      "id": "user_1780079531229",
+      "username": "emp_xtye223",
+      "name": "ضرغام ماجد",
+      "role": "employee",
+      "passwordText": "RnRue4Hj",
+      "divisionId": "institutes",
+      "createdAt": "2026-05-29T18:32:11.229Z"
+    },
+    {
+      "id": "user_1780079566803",
+      "username": "emp_pndh559",
+      "name": "ستار عبد اكعيم",
+      "role": "head",
+      "passwordText": "GQKdMRDs",
+      "divisionId": "handicrafts",
+      "createdAt": "2026-05-29T18:32:46.803Z"
+    },
+    {
+      "id": "user_1780079667728",
+      "username": "emp_cuiv696",
+      "name": "م.علي ناجح",
+      "role": "head",
+      "passwordText": "jbahYdvv",
+      "divisionId": "boys_fine_arts",
+      "createdAt": "2026-05-29T18:34:27.728Z"
+    },
+    {
+      "id": "user_1780079871604",
+      "username": "emp_uwhh381",
+      "name": "هديل شاكر",
+      "role": "employee",
+      "passwordText": "7nMN4wZi",
+      "divisionId": "girls_fine_arts",
+      "createdAt": "2026-05-29T18:37:51.604Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_1",
+      "senderId": "director_1",
+      "senderName": "م.م صفاء هادي عبد العالي الطاني (مدير القسم)",
+      "senderRole": "manager",
+      "content": "السلام عليكم ورحمة الله وبركاته. الزملاء الأعزاء مسؤولي الشعب والمعاهد والوحدات والموظفين، نرحب بكم في نظام الاتصالات الداخلي ونقل البريد الإلكتروني لقسمنا. يرجى توثيق كافة المراسلات الرسمية والبريد الداخلي هنا.",
+      "timestamp": "2026-05-26T20:30:00Z",
+      "type": "general",
+      "divisionId": "all"
+    },
+    {
+      "id": "msg_2",
+      "senderId": "head_training",
+      "senderName": "علي حسين الكناني (مسؤول شعبة التدريب)",
+      "senderRole": "head",
+      "content": "وعليكم السلام ورحمة الله وبركاته أستاذنا الفاضل. تم استلام التوجيه، وسنقوم برفع خطة التدريب للفصل القادم عبر هذا النظام الإلكتروني بعد قليل.",
+      "timestamp": "2026-05-26T20:45:00Z",
+      "type": "general",
+      "divisionId": "all"
+    },
+    {
+      "id": "msg_3",
+      "senderId": "director_1",
+      "senderName": "م.م صفاء هادي عبد العالي الطاني (مدير القسم)",
+      "senderRole": "manager",
+      "content": "يرجى مراجعة وتدقيق معاملات القبول الجديدة وإرسال التوجيهات النهائية للمعاهد بشكل عاجل.",
+      "timestamp": "2026-05-26T20:50:00Z",
+      "type": "division",
+      "divisionId": "institutes"
+    },
+    {
+      "id": "msg_4",
+      "senderId": "head_institutes",
+      "senderName": "سعد الجابري (مسؤول شعبة المعاهد)",
+      "senderRole": "head",
+      "content": "أهلاً بك حضرة المدير. تم استلام الملف المرفق بخصوص القبولات، وجاري التدقيق والعمل عليه لإرسال التقرير النهائي اليوم.",
+      "timestamp": "2026-05-26T20:55:00Z",
+      "type": "division",
+      "divisionId": "institutes"
+    },
+    {
+      "id": "msg_1780089561654",
+      "senderId": "admin_1",
+      "senderName": "الآدمن (مسؤول النظام)",
+      "senderRole": "admin",
+      "content": "الووو",
+      "timestamp": "2026-05-29T21:19:21.654Z",
+      "type": "general",
+      "divisionId": "all"
+    },
+    {
+      "id": "msg_sim_1780089564460",
+      "senderId": "department_director",
+      "senderName": "م.م صفاء هادي عبد العالي الطاني (مدير القسم)",
+      "senderRole": "manager",
+      "content": "توجيه رسمي: تم الاطلاع على الرسالة المنشورة في الساحة العامة. يرجى من المنسوبين متابعة الإجراء وتوفير التقارير اللازمة.",
+      "timestamp": "2026-05-29T21:19:24.460Z",
+      "type": "general",
+      "attachments": [],
+      "divisionId": "all"
+    }
+  ],
+  "directives": [
+    {
+      "id": "dir_1",
+      "title": "تبسيط الإجراءات",
+      "content": "التوجيه بتبسيط الإجراءات الإدارية وتكثيف استخدام البرنامج الرقمي للبريد الإلكتروني الداخلي لسرعة إنجاز معاملات الكوادر التعليمية والتدريبية.",
+      "source": "general_director",
+      "timestamp": "2026-05-26T14:30:00Z"
+    },
+    {
+      "id": "dir_2",
+      "title": "الانضباط الإداري الرسمي",
+      "content": "التأكيد على كافة مسؤولي الشعب والمعاهد والوحدات والموظفين بالالتزام بالصلاحيات المحددة، وحفظ وتوثيق المراسلات الإدارية الرسمية بكل سرية ودقة.",
+      "source": "general_director",
+      "timestamp": "2026-05-26T15:20:00Z"
+    },
+    {
+      "id": "dir_3",
+      "title": "مراقبة وتقييم الأداء",
+      "content": "يوجه قسم الاعداد والتدريب كافة الكوادر بمتابعة العمل اليومي وتحديث بيانات البريد بشكل دوري تفادياً لأي تأخير في إرسال المخاطبات الرسمية.",
+      "source": "department_director",
+      "timestamp": "2026-05-26T16:00:00Z"
+    }
+  ],
+  "externalBodies": [
+    {
+      "id": "office_dg",
+      "name": "مكتب المدير العام"
+    },
+    {
+      "id": "hr_dept",
+      "name": "قسم الموارد البشرية"
+    },
+    {
+      "id": "edu_supervision_dept",
+      "name": "قسم الاشراف التربوي"
+    },
+    {
+      "id": "special_supervision_dept",
+      "name": "قسم الاشراف الاختصاصي"
+    },
+    {
+      "id": "technical_dept",
+      "name": "قسم الشؤون الفنية"
+    },
+    {
+      "id": "audit_dept",
+      "name": "قسم التدقيق"
+    },
+    {
+      "id": "finance_dept",
+      "name": "قسم الحسابات"
+    },
+    {
+      "id": "sports_activity_dept",
+      "name": "قسم النشاط الرياضي"
+    },
+    {
+      "id": "school_activity_dept",
+      "name": "قسم النشاط المدرسي"
+    }
+  ]
+}
